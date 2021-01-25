@@ -1,0 +1,32 @@
+body {
+    background-color: aliceblue;
+}
+
+.navbar {
+    opacity: 0.8;
+    border-bottom: 1px solid #ffffff;
+    background-color: cadetblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.jumbotron {
+    background-color: rgb(168, 196, 196);
+    padding-top: 100px;
+}
+
+.dropdown-item {
+    color: cadetblue;
+    font-weight: 500;
+}
+
+.dropdown-item:hover {
+    background-color: azure;
+    color: darkcyan;
+    font-weight: 600;
+}
+
+footer {
+    background-color: cadetblue;
+    font-weight: 700;
+}
